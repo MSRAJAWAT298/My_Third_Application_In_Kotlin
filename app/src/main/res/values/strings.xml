@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">About Page</string>
-    <string name="about_page">About me</string>
-    <string name="text_name">Hi This Mayank singh</string>
+    <string name="text_name">Mayank singh</string>
     <string name="star_image">Star image</string>
-</resources>
+    <string name="about_page">Something about me\n\n
+    \nHello, I am Mayank Singh Kushwah web developer.\n\nI am yet studying.I am a student of computer science engineering.\nI am highly ambitious and enthusiastic towards My learning and career development.
+    \nI am happy to tell you about my contribution in my field. \nI have developed lot\'s of projects based on php technology. \nSuch as staff mangament, student mangament system. I have worked in Techcato projections pvt. Ltd. As intern.
+    \nHere I have developed CRM ,DTR (daily time tracker) onlinenotepad, Or email templates and also worked on wordpress. \nI would love to share my skills. I am a youtuber, blogger, local guide in google map. \nI have got perks and also have been selected thrice for Top local guides of city. \nFriends, I have knowledge about digital marketing such as how to work on Google my business,seo, ad-sense,email marketing.</string>
+    </resources>
